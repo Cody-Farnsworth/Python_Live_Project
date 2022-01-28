@@ -1,8 +1,8 @@
 # Python_Live_Project
 Live Project:
  
-Introduction
-For the last two weeks of my time at the tech academy, I developed a full scale Web Application in Python using django. Working on a python codebase was a great learning opportunity for fixing bugs, cleaning up code, and learning new functionalities. I saw how a good developer works with what they have to make a quality product. Over the two week sprint I developed a fully functional website. I learned how to implement the use of Databases, API, and web scraping in order to make my website have more depth along with developing a better UI.This project taught me a ton of skills in using python and django that i will take into future projects.
+Introduction:
+For the last two weeks of my time at the tech academy, I developed a full scale Web Application in Python using django. Working on a python codebase was a great learning opportunity for fixing bugs, cleaning up code, and learning new functionalities. I saw how a good developer works with what they have to make a quality product. Over the two week sprint I developed a fully functional website. I learned how to implement the use of Databases, API, and web scraping in order to make my website have more depth along with developing a better UI.This project taught me a ton of skills in using python and django that I will take into future projects.
  
 Below are descriptions of the stories I worked on. I have provided snips of the codes as well in a seperate folder all labed for what part of the project they go to.
  
